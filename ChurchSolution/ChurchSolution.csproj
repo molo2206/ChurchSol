@@ -1,0 +1,869 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8EB29E9-E119-422D-AB87-9A3FAA50EC27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChurchSolution</RootNamespace>
+    <AssemblyName>ChurchSolution</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Desktop\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.1.Export, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.1.UI, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v17.1.Core, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.1.Extensions, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraWizard.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\MOLO\Desktop\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutresRapport\Operations.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AutresRapport\Operations.Designer.cs">
+      <DependentUpon>Operations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutresRapport\Rapport Operation.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AutresRapport\Rapport Operation.Designer.cs">
+      <DependentUpon>Rapport Operation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutresRapport\RapportCulte.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AutresRapport\RapportCulte.Designer.cs">
+      <DependentUpon>RapportCulte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutresRapport\RapportJournal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AutresRapport\RapportJournal.Designer.cs">
+      <DependentUpon>RapportJournal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutresRapport\XtraReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AutresRapport\XtraReport1.Designer.cs">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutresRapport\XtraReport2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AutresRapport\XtraReport2.Designer.cs">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassConnexion\ClsConfiguration.cs" />
+    <Compile Include="ClassConnexion\ClsConnexion.cs" />
+    <Compile Include="ClassConnexion\ClsConstante.cs" />
+    <Compile Include="ClasseFonction\classMenu.cs" />
+    <Compile Include="ClasseFonction\Clsfonctions.cs" />
+    <Compile Include="ClasseFonction\ClsRapports.cs" />
+    <Compile Include="ClasseModel\ClsUtilisateur.cs" />
+    <Compile Include="ClassePrincipale\ClsDAO.cs" />
+    <Compile Include="ClasseModel\ClsMembre.cs" />
+    <Compile Include="ClasseTraitement\ClsAgentInsertion.cs" />
+    <Compile Include="ClasseTraitement\ClsLogin.cs" />
+    <Compile Include="ClasseTraitement\ClsMembreInsertion.cs" />
+    <Compile Include="ClasseTraitement\ClsPredicateur.cs" />
+    <Compile Include="ClasseTraitement\ClsServiteurInsertion.cs" />
+    <Compile Include="ClasseTraitement\logine.cs" />
+    <Compile Include="FormulairePrincipale\AjouterCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\AjouterCompte.Designer.cs">
+      <DependentUpon>AjouterCompte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\DashBord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\DashBord.Designer.cs">
+      <DependentUpon>DashBord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\EntrementAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\EntrementAll.Designer.cs">
+      <DependentUpon>EntrementAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClasseModel\Culte.cs" />
+    <Compile Include="FormulairePrincipale\FormulairePrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulairePrincipal.Designer.cs">
+      <DependentUpon>FormulairePrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Configuration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Configuration.Designer.cs">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\AutreConf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\AutreConf.Designer.cs">
+      <DependentUpon>AutreConf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Confirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Confirmation.Designer.cs">
+      <DependentUpon>Confirmation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Correct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Correct.Designer.cs">
+      <DependentUpon>Correct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Erreur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Erreur.Designer.cs">
+      <DependentUpon>Erreur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmAfficher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmAfficher.Designer.cs">
+      <DependentUpon>FrmAfficher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmConf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmConf.Designer.cs">
+      <DependentUpon>FrmConf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmValidation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmValidation.Designer.cs">
+      <DependentUpon>FrmValidation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Incomplet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Incomplet.Designer.cs">
+      <DependentUpon>Incomplet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmBackup.Designer.cs">
+      <DependentUpon>FrmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmBapteme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmBapteme.Designer.cs">
+      <DependentUpon>FrmBapteme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmcaisse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmcaisse.Designer.cs">
+      <DependentUpon>Frmcaisse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmcellule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmcellule.Designer.cs">
+      <DependentUpon>Frmcellule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmCompte.Designer.cs">
+      <DependentUpon>FrmCompte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmConcencration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmConcencration.Designer.cs">
+      <DependentUpon>FrmConcencration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmCulte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmCulte.Designer.cs">
+      <DependentUpon>FrmCulte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmEntree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmEntree.Designer.cs">
+      <DependentUpon>FrmEntree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmfonction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmfonction.Designer.cs">
+      <DependentUpon>Frmfonction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmFonctionnalite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmFonctionnalite.Designer.cs">
+      <DependentUpon>FrmFonctionnalite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmjournal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Frmjournal.Designer.cs">
+      <DependentUpon>Frmjournal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmJournalisation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmJournalisation.Designer.cs">
+      <DependentUpon>FrmJournalisation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmMinistere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmMinistere.Designer.cs">
+      <DependentUpon>FrmMinistere.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmModerateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmModerateur.Designer.cs">
+      <DependentUpon>FrmModerateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmOperation_.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmOperation_.Designer.cs">
+      <DependentUpon>FrmOperation_.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmPreducateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmPreducateur.Designer.cs">
+      <DependentUpon>FrmPreducateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmUser.Designer.cs">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmVisiteur.Designer.cs">
+      <DependentUpon>FrmVisiteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListeAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListeAgent.Designer.cs">
+      <DependentUpon>ListeAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Modifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Modifier.Designer.cs">
+      <DependentUpon>Modifier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\progresse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\progresse.Designer.cs">
+      <DependentUpon>progresse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Vide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Vide.Designer.cs">
+      <DependentUpon>Vide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmAhent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmAhent.Designer.cs">
+      <DependentUpon>FrmAhent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmMembre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmMembre.Designer.cs">
+      <DependentUpon>FrmMembre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmServiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmServiteur.Designer.cs">
+      <DependentUpon>FrmServiteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmUtilisateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\FrmUtilisateur.Designer.cs">
+      <DependentUpon>FrmUtilisateur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListMembre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListMembre.Designer.cs">
+      <DependentUpon>ListMembre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListServiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListServiteur.Designer.cs">
+      <DependentUpon>ListServiteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Mouvement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Mouvement.Designer.cs">
+      <DependentUpon>Mouvement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Presence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\Presence.Designer.cs">
+      <DependentUpon>Presence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListePresenc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FormulaireSecondaire\ListePresenc.Designer.cs">
+      <DependentUpon>ListePresenc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FrmComptabilite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FrmComptabilite.Designer.cs">
+      <DependentUpon>FrmComptabilite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FrmparametreAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\FrmparametreAll.Designer.cs">
+      <DependentUpon>FrmparametreAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\OperationAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\OperationAll.Designer.cs">
+      <DependentUpon>OperationAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulairePrincipale\PersonnelAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulairePrincipale\PersonnelAll.Designer.cs">
+      <DependentUpon>PersonnelAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="italk_theme_-_c#.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rapport%28Etat de sortie%29\FrmListemembre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmListemembre.Designer.cs">
+      <DependentUpon>FrmListemembre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmListeOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmListeOperation.Designer.cs">
+      <DependentUpon>FrmListeOperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmListpresence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmListpresence.Designer.cs">
+      <DependentUpon>FrmListpresence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmrapportBapteme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmrapportBapteme.Designer.cs">
+      <DependentUpon>FrmrapportBapteme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\Frmrapportconcencration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\Frmrapportconcencration.Designer.cs">
+      <DependentUpon>Frmrapportconcencration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmrapportCulte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmrapportCulte.Designer.cs">
+      <DependentUpon>FrmrapportCulte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repport\carteBapteme.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>carteBapteme.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\CodeBare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Repport\CodeBare.Designer.cs">
+      <DependentUpon>CodeBare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmCarteServit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmCarteServit.Designer.cs">
+      <DependentUpon>FrmCarteServit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repport\carte.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>carte.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmCarte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rapport%28Etat de sortie%29\FrmCarte.Designer.cs">
+      <DependentUpon>FrmCarte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Repport\Carteservit.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Carteservit.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\RapportMembre.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RapportMembre.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Repport\Journal.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Journal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\ListedesOperations.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ListedesOperations.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\RapportPresence.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RapportPresence.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\Rapportbapteme.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rapportbapteme.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\Rapportconcencration.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rapportconcencration.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\Rapportculte.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rapportculte.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Repport\Rapportserviteur.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rapportserviteur.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="AutresRapport\Operations.resx">
+      <DependentUpon>Operations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutresRapport\Rapport Operation.resx">
+      <DependentUpon>Rapport Operation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutresRapport\RapportCulte.resx">
+      <DependentUpon>RapportCulte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutresRapport\RapportJournal.resx">
+      <DependentUpon>RapportJournal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutresRapport\XtraReport1.resx">
+      <DependentUpon>XtraReport1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutresRapport\XtraReport2.resx">
+      <DependentUpon>XtraReport2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\AjouterCompte.resx">
+      <DependentUpon>AjouterCompte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\DashBord.resx">
+      <DependentUpon>DashBord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\EntrementAll.resx">
+      <DependentUpon>EntrementAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulairePrincipal.resx">
+      <DependentUpon>FormulairePrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Configuration.resx">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\AutreConf.resx">
+      <DependentUpon>AutreConf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Confirmation.resx">
+      <DependentUpon>Confirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Correct.resx">
+      <DependentUpon>Correct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Erreur.resx">
+      <DependentUpon>Erreur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmAfficher.resx">
+      <DependentUpon>FrmAfficher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmConf.resx">
+      <DependentUpon>FrmConf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\FrmValidation.resx">
+      <DependentUpon>FrmValidation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Incomplet.resx">
+      <DependentUpon>Incomplet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Modifier.resx">
+      <DependentUpon>Modifier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\Vide.resx">
+      <DependentUpon>Vide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmBackup.resx">
+      <DependentUpon>FrmBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmBapteme.resx">
+      <DependentUpon>FrmBapteme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Frmcaisse.resx">
+      <DependentUpon>Frmcaisse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Frmcellule.resx">
+      <DependentUpon>Frmcellule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmCompte.resx">
+      <DependentUpon>FrmCompte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmConcencration.resx">
+      <DependentUpon>FrmConcencration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmCulte.resx">
+      <DependentUpon>FrmCulte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmEntree.resx">
+      <DependentUpon>FrmEntree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Frmfonction.resx">
+      <DependentUpon>Frmfonction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmFonctionnalite.resx">
+      <DependentUpon>FrmFonctionnalite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Frmjournal.resx">
+      <DependentUpon>Frmjournal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmJournalisation.resx">
+      <DependentUpon>FrmJournalisation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmMinistere.resx">
+      <DependentUpon>FrmMinistere.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmModerateur.resx">
+      <DependentUpon>FrmModerateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmOperation_.resx">
+      <DependentUpon>FrmOperation_.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmPreducateur.resx">
+      <DependentUpon>FrmPreducateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmUser.resx">
+      <DependentUpon>FrmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmVisiteur.resx">
+      <DependentUpon>FrmVisiteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\ListeAgent.resx">
+      <DependentUpon>ListeAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FormulaireNotification\progresse.resx">
+      <DependentUpon>progresse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmAhent.resx">
+      <DependentUpon>FrmAhent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmMembre.resx">
+      <DependentUpon>FrmMembre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmServiteur.resx">
+      <DependentUpon>FrmServiteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\FrmUtilisateur.resx">
+      <DependentUpon>FrmUtilisateur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\ListMembre.resx">
+      <DependentUpon>ListMembre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\ListServiteur.resx">
+      <DependentUpon>ListServiteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Mouvement.resx">
+      <DependentUpon>Mouvement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\Presence.resx">
+      <DependentUpon>Presence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FormulaireSecondaire\ListePresenc.resx">
+      <DependentUpon>ListePresenc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FrmComptabilite.resx">
+      <DependentUpon>FrmComptabilite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\FrmparametreAll.resx">
+      <DependentUpon>FrmparametreAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\OperationAll.resx">
+      <DependentUpon>OperationAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulairePrincipale\PersonnelAll.resx">
+      <DependentUpon>PersonnelAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmListemembre.resx">
+      <DependentUpon>FrmListemembre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmListeOperation.resx">
+      <DependentUpon>FrmListeOperation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmListpresence.resx">
+      <DependentUpon>FrmListpresence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmrapportBapteme.resx">
+      <DependentUpon>FrmrapportBapteme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\Frmrapportconcencration.resx">
+      <DependentUpon>Frmrapportconcencration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmrapportCulte.resx">
+      <DependentUpon>FrmrapportCulte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\carteBapteme.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>carteBapteme.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\CodeBare.resx">
+      <DependentUpon>CodeBare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmCarteServit.resx">
+      <DependentUpon>FrmCarteServit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\carte.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>carte.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rapport%28Etat de sortie%29\FrmCarte.resx">
+      <DependentUpon>FrmCarte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\Carteservit.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Carteservit.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\RapportMembre.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RapportMembre.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\Journal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Journal.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\ListedesOperations.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ListedesOperations.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\RapportPresence.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RapportPresence.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\Rapportbapteme.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rapportbapteme.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\Rapportconcencration.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rapportconcencration.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\Rapportculte.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rapportculte.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Repport\Rapportserviteur.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rapportserviteur.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

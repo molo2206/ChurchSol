@@ -1,0 +1,819 @@
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\ChurchSolution.exe.config
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\RapportMembre.rpt
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\RapportMembre.cs
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\ChurchSolution.exe
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\ChurchSolution.pdb
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\FlashControlV71.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\bin\Debug\stdole.dll
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.AjouterCompte.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.DashBord.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.EntrementAll.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Form1.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulairePrincipal.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Configuration.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Form3.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.AutreConf.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Confirmation.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Correct.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Erreur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmAfficher.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmConf.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmValidation.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Incomplet.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Modifier.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Vide.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBapteme.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcellule.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCompte.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmConcencration.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCulte.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmEntree.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmfonction.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmFonctionnalite.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmjournal.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmJournalisation.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmLogin.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmMinistere.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmModerateur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmOperation_.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmPreducateur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmUser.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmVisiteur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.ListeAgent.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.progresse.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmAhent.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmMembre.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmServiteur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmUtilisateur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.ListMembre.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.ListServiteur.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Mouvement.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Presence.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.ListePresence.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmComptabilite.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmparametreAll.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.OperationAll.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.PersonnelAll.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Properties.Resources.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListemembre.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListeOperation.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListpresence.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportBapteme.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.Frmrapportconcencration.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportCulte.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.CodeBare.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarteServit.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarte.resources
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.csproj.GenerateResource.Cache
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.exe
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.pdb
+C:\Users\ISRAEL\Documents\Visual Studio 2015\Projects\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.csprojResolveAssemblyReference.cache
+D:\ChurchSolution\ChurchSolution\bin\Debug\ChurchSolution.exe.config
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.exe
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.pdb
+D:\ChurchSolution\ChurchSolution\bin\Debug\ChurchSolution.exe
+D:\ChurchSolution\ChurchSolution\bin\Debug\ChurchSolution.pdb
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\ShockwaveFlashObjects.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\stdole.dll
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.AjouterCompte.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.DashBord.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.EntrementAll.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Form1.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulairePrincipal.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Configuration.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Form3.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.AutreConf.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Confirmation.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Correct.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Erreur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmAfficher.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmConf.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmValidation.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Incomplet.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Modifier.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Vide.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBapteme.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcellule.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCompte.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmConcencration.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCulte.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmEntree.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmfonction.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmFonctionnalite.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmjournal.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmJournalisation.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmLogin.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmMinistere.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmModerateur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmOperation_.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmPreducateur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmUser.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmVisiteur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.ListeAgent.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.progresse.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmAhent.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmMembre.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmServiteur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmUtilisateur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.ListMembre.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.ListServiteur.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Mouvement.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Presence.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.ListePresence.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmComptabilite.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmparametreAll.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.OperationAll.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.PersonnelAll.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Properties.Resources.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListemembre.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListeOperation.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListpresence.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportBapteme.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.Frmrapportconcencration.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportCulte.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.CodeBare.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarteServit.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarte.resources
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.csproj.GenerateResource.Cache
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.Shared.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\FlashControlV71.dll
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBackup.resources
+D:\ChurchSolution\ChurchSolution\bin\Debug\LiveCharts.dll
+D:\ChurchSolution\ChurchSolution\bin\Debug\LiveCharts.pdb
+D:\ChurchSolution\ChurchSolution\bin\Debug\LiveCharts.xml
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.csprojResolveAssemblyReference.cache
+D:\ChurchSolution\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcaisse.resources
+D:\ChurchSolution\ChurchSolution\bin\Debug\Repport\RapportMembre.rpt
+D:\ChurchSolution\ChurchSolution\bin\Debug\Repport\RapportMembre.cs
+D:\ChurchSolution\ChurchSolution\bin\Debug\log4net.dll
+D:\ChurchSolution\bin\Debug\ChurchSolution.exe.config
+D:\ChurchSolution\obj\Debug\ChurchSolution.exe
+D:\ChurchSolution\obj\Debug\ChurchSolution.pdb
+D:\ChurchSolution\bin\Debug\Repport\RapportMembre.rpt
+D:\ChurchSolution\bin\Debug\Repport\RapportMembre.cs
+D:\ChurchSolution\bin\Debug\ChurchSolution.exe
+D:\ChurchSolution\bin\Debug\ChurchSolution.pdb
+D:\ChurchSolution\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.Shared.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ChurchSolution\bin\Debug\FlashControlV71.dll
+D:\ChurchSolution\bin\Debug\log4net.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ChurchSolution\bin\Debug\ShockwaveFlashObjects.dll
+D:\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ChurchSolution\bin\Debug\stdole.dll
+D:\ChurchSolution\bin\Debug\LiveCharts.pdb
+D:\ChurchSolution\bin\Debug\LiveCharts.xml
+D:\ChurchSolution\obj\Debug\ChurchSolution.csprojResolveAssemblyReference.cache
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.AjouterCompte.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.DashBord.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.EntrementAll.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Form1.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulairePrincipal.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Configuration.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Form3.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.AutreConf.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Confirmation.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Correct.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Erreur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmAfficher.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmConf.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmValidation.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Incomplet.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Modifier.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Vide.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBackup.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBapteme.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcaisse.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcellule.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCompte.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmConcencration.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCulte.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmEntree.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmfonction.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmFonctionnalite.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmjournal.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmJournalisation.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmLogin.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmMinistere.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmModerateur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmOperation_.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmPreducateur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmUser.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmVisiteur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.ListeAgent.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.progresse.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmAhent.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmMembre.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmServiteur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmUtilisateur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.ListMembre.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.ListServiteur.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Mouvement.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Presence.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.ListePresence.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmComptabilite.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmparametreAll.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.OperationAll.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.PersonnelAll.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Properties.Resources.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListemembre.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListeOperation.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListpresence.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportBapteme.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.Frmrapportconcencration.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportCulte.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.CodeBare.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarteServit.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarte.resources
+D:\ChurchSolution\obj\Debug\ChurchSolution.csproj.GenerateResource.Cache
+D:\MES PROJETS\ChurchSolution\bin\Debug\ChurchSolution.exe.config
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.exe
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.pdb
+D:\MES PROJETS\ChurchSolution\bin\Debug\Repport\RapportMembre.rpt
+D:\MES PROJETS\ChurchSolution\bin\Debug\Repport\RapportMembre.cs
+D:\MES PROJETS\ChurchSolution\bin\Debug\ChurchSolution.exe
+D:\MES PROJETS\ChurchSolution\bin\Debug\ChurchSolution.pdb
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.Shared.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\FlashControlV71.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ShockwaveFlashObjects.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\stdole.dll
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.AjouterCompte.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.DashBord.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.EntrementAll.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Form1.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulairePrincipal.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Configuration.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Form3.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.AutreConf.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Confirmation.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Correct.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Erreur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmAfficher.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmConf.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmValidation.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Incomplet.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Modifier.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Vide.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBackup.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBapteme.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcaisse.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcellule.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCompte.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmConcencration.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCulte.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmEntree.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmfonction.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmFonctionnalite.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmjournal.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmJournalisation.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmLogin.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmMinistere.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmModerateur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmOperation_.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmPreducateur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmUser.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmVisiteur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.ListeAgent.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.progresse.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmAhent.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmMembre.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmServiteur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmUtilisateur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.ListMembre.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.ListServiteur.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Mouvement.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Presence.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.ListePresence.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmComptabilite.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmparametreAll.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.OperationAll.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.PersonnelAll.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Properties.Resources.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListemembre.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListeOperation.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListpresence.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportBapteme.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.Frmrapportconcencration.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportCulte.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.CodeBare.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarteServit.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarte.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.csproj.GenerateResource.Cache
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Data.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Data.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.exe.licenses
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.csprojResolveAssemblyReference.cache
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.XtraReport1.resources
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraWizard.v17.1.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\DevExpress.XtraWizard.v17.1.xml
+D:\MES PROJETS\ChurchSolution\bin\Debug\de\DevExpress.XtraWizard.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\es\DevExpress.XtraWizard.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ja\DevExpress.XtraWizard.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\bin\Debug\ru\DevExpress.XtraWizard.v17.1.resources.dll
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.RapportCulte.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.Rapport_Operation.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.RapportJournal.resources
+D:\MES PROJETS\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.Operations.resources
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ChurchSolution.exe.config
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.exe
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.pdb
+D:\Lecteur Fils\ChurchSolution\bin\Debug\Repport\RapportMembre.rpt
+D:\Lecteur Fils\ChurchSolution\bin\Debug\Repport\RapportMembre.cs
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ChurchSolution.exe
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ChurchSolution.pdb
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraWizard.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ShockwaveFlashObjects.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\stdole.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraWizard.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraWizard.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraWizard.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraWizard.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraWizard.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.csprojResolveAssemblyReference.cache
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.Operations.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.Rapport_Operation.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.RapportCulte.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.RapportJournal.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.XtraReport1.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.AutresRapport.XtraReport2.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.AjouterCompte.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.DashBord.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.EntrementAll.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Form1.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulairePrincipal.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Configuration.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Form3.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.AutreConf.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Confirmation.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Correct.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Erreur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmAfficher.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmConf.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.FrmValidation.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Incomplet.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Modifier.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.Vide.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBackup.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmBapteme.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcaisse.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmcellule.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCompte.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmConcencration.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmCulte.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmEntree.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmfonction.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmFonctionnalite.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Frmjournal.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmJournalisation.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmLogin.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmMinistere.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmModerateur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmOperation_.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmPreducateur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmUser.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FrmVisiteur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.ListeAgent.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.FormulaireNotification.progresse.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmAhent.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmMembre.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmServiteur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.FrmUtilisateur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulaireSecondaire.ListMembre.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.ListServiteur.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Mouvement.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FormulaireSecondaire.Presence.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.ListePresence.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmComptabilite.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.FrmparametreAll.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.OperationAll.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.FormulairePrincipale.PersonnelAll.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Properties.Resources.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListemembre.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListeOperation.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmListpresence.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportBapteme.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.Frmrapportconcencration.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmrapportCulte.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.CodeBare.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarteServit.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.Rapport_Etat_de_sortie_.FrmCarte.resources
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.csproj.GenerateResource.Cache
+D:\Lecteur Fils\ChurchSolution\obj\Debug\ChurchSolution.exe.licenses
